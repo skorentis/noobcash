@@ -1,2 +1,2 @@
 # noobcash
-basic e-coin distributed transaction system (blockchain) 
+simple e-coin distributed transaction system (blockchain) 
